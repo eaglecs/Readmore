@@ -11,9 +11,7 @@ allprojects {
 			maven { url 'https://jitpack.io' }
 		}
 	}
-```java
 
-```java
 dependencies {
 	        implementation 'com.github.eaglecs:Readmore:1.0.0'
 	}
